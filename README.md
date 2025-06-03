@@ -27,6 +27,7 @@ root/
    cd gemini-chat-app
 
 2. Install dependencies
+     ```bash
      npm install
 3. Add your Gemini API key
     Open server.js and replace the placeholder:
@@ -34,6 +35,7 @@ root/
    ⚠️ Never expose your API key in public repos.
 
 4. Start the server
+    ```bash
     npm start
 
 📌 Notes
