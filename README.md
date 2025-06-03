@@ -23,7 +23,7 @@ root/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Benya-Shagu/gemini-chat-app.git
+   git clone https://github.com/Benya-Shagu/ChatBot.git
    cd gemini-chat-app
 
 2. **Install dependencies**
