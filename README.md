@@ -10,14 +10,16 @@ A simple real-time chat application built with **Node.js**, **WebSocket**, and *
 
 ## 📁 Project Structure
 
+```
 root/
 ├── public/
-│ ├── index.html # Chat UI
-│ ├── script.js # WebSocket client logic
-│ └── style.css # Page styling
-├── server.js # Node.js server with Gemini + WebSocket
-├── package.json # Project dependencies
-└── README.md # Project info and setup
+│   ├── index.html       # Chat UI
+│   ├── script.js        # WebSocket client logic
+│   └── style.css        # Page styling
+├── server.js            # Node.js server with Gemini + WebSocket
+├── package.json         # Project dependencies
+└── README.md            # Project info and setup
+```
 
 ## 🔧 Setup & Run
 
